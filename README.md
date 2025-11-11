@@ -37,6 +37,7 @@ CREATE TABLE retail_sales
     cogs FLOAT,
     total_sale FLOAT
 );
+
 2. Exploração e Limpeza de Dados
 •	Contagem de Registros: Determinar o número total de registros.
 •	Contagem de Clientes: Descobrir quantos clientes únicos estão no dataset.
